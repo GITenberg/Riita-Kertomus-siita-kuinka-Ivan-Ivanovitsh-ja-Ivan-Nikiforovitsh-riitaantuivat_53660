@@ -1,0 +1,39 @@
+_repo: Riita-Kertomus-siita-kuinka-Ivan-Ivanovitsh-ja-Ivan-Nikiforovitsh-riitaantuivat_53660
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Silvanto, Reino
+    birthdate: 1883
+    gutenberg_agent_id: '45093'
+    url: http://www.gutenberg.org/2009/agents/45093
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolaj
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolay Vasilyevich
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: 'Translation of: Повесть о том, как поссорился Иван Иванович с Иваном
+  Никифоровичем'
+gutenberg_issued: '2016-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53660'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interpersonal conflict -- Fiction'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Male friendship -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- GITenberg
+title: 'Riita: Kertomus siitä, kuinka Ivan Ivanovitsh ja Ivan Nikiforovitsh riitaantuivat'
+url: http://www.gutenberg.org/ebooks/53660
