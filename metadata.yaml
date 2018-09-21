@@ -1,11 +1,14 @@
 _repo: Riita-Kertomus-siita-kuinka-Ivan-Ivanovitsh-ja-Ivan-Nikiforovitsh-riitaantuivat_53660
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Silvanto, Reino
     birthdate: 1883
     gutenberg_agent_id: '45093'
     url: http://www.gutenberg.org/2009/agents/45093
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -20,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: 'Translation of: Повесть о том, как поссорился Иван Иванович с Иваном
   Никифоровичем'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53660#Riita-Kertomus-siita-kuinka-Ivan-Ivanovitsh-ja-Ivan-Nikiforovitsh-riitaantuivat
 gutenberg_issued: '2016-12-04'
 gutenberg_type: Text
 identifiers:
